@@ -1,4 +1,4 @@
-## Project 1 - My Story
+# Project 1 - My Story
 
 Submitted by: Ana Alfaro-Garcia
 
