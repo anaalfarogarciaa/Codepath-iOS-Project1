@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "characters-mickey-and-minnie-mouse-in-the-streets-of-news-photo-543900696-1542366526.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
