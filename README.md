@@ -29,14 +29,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='mickey.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-mickey.gif
+<img src='https://github.com/anaalfarogarciaa/Codepath-iOS-Project1/blob/531be724f812b3b283dd6479642533802e749330/mickey.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with EZGIF.
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
+GIF created with EZGIF. (https://ezgif.com/video-to-gif)
 
 ## Notes
 I did not have too many challenges while building the app, it was mostly getting used to the different tools.
